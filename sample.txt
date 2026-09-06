@@ -1,0 +1,12 @@
+ERCOT Energy Report 2024
+
+The WA Parish power plant located in South Texas has been upgraded
+to 3,800 MW capacity. It primarily uses natural gas and supplies
+power to the HB_SOUTH hub. The plant is owned by NRG Energy.
+
+HB_NORTH hub receives power from multiple sources including the
+Comanche Peak nuclear facility and several wind farms in West Texas.
+The total capacity serving HB_NORTH exceeds 5,000 MW.
+
+Renewable energy now accounts for 30% of ERCOT's total generation,
+with wind and solar being the primary sources.
